@@ -18,4 +18,5 @@ def merge_pdf():
 
 
 if __name__ == "__main__":
-    merge_pdf()
+    while True:
+        merge_pdf()
